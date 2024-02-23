@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-02-23 at 2 09 41 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/440eadd0-3965-4c2c-b50e-69b86d5afa82)# lokeshwari
+# lokeshwari
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 
 
@@ -51,7 +51,8 @@ This repo is intended to document the weekly progress.
 
 ```git clone https://github.com/riscv/riscv-gnu-toolchain```
 
-![gnu_toolchain_clone](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/760e3e42-8c07-4254-80a3-050e489ac42d)
+
+![WhatsApp Image 2024-02-23 at 2 09 44 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/ec3f23ef-0b39-4d34-8bf5-24c5857ac622)
 
 
 ## Create a opt dir
@@ -101,11 +102,11 @@ make config-gcc
 make 
 sudo make install
 ```
+![WhatsApp Image 2024-02-23 at 2 09 47 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/f908b9e2-63d1-47d9-9ae7-deb1ae2f9bd5)
 
-![yosys_make](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/e722e508-0802-4f50-9cb6-02e9c6bafe48)
 
 
-![buildsuccess_yosys](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/5e10e5b8-19dd-4460-994f-2759e9b942b1)
+![WhatsApp Image 2024-02-23 at 2 09 51 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/0797e38d-9a49-4158-9f1c-d9a598949bdb)
 
 
 ### iVerilog
@@ -113,12 +114,14 @@ sudo make install
 ```
 sudo apt-get install iverilog
 ```
+![WhatsApp Image 2024-02-23 at 2 09 52 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/4d06636d-f20e-438a-a9eb-8ef16220aef5)
 
 
 ### GTkWave
 ``` sudo apt-get install gtkwave ```
 
-![iverilog_gtkwave](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/344a4225-c6bb-4728-a325-ac66d1621b28)
+
+![WhatsApp Image 2024-02-23 at 2 09 57 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/0c21b5c3-4338-4a42-adde-ba9849c83ac6)
 
 </details>
 

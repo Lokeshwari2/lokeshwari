@@ -45,7 +45,19 @@
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
+![WhatsApp Image 2024-02-24 at 1 20 51 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/6fb9cb76-b57f-40b2-a0a7-6a2ff09f7450)
 
+ +  add r6, r2, r1 	= R type instruction
++ sub r7, r1, r2	= R type instruction
++ and r8, r1, r3	= R type instruction
+ + or r9, r2, r5	= R type instruction
++ xor r10, r1, r4	= R type instruction
++ slt r11, r2, r4	= R type instruction
++ addi r12, r4, 5	= I type instruction
++ sw r3, r1, 2		= S type instruction
++ lw r13, r1, 2		= I type instruction
++ beq r0, r0, 15	= B type instruction
++ bne r0, r1, 20	= B type instruction
 
 </details>
 

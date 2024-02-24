@@ -1,4 +1,4 @@
-    # learn various types of RISC-V instructions
+ # learn various types of RISC-V instructions
 <p align="justify">RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:</p>
 
 <details>

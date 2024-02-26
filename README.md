@@ -51,8 +51,7 @@ This repo is intended to document the weekly progress.
 
 ```git clone https://github.com/riscv/riscv-gnu-toolchain```
 
-
-![WhatsApp Image 2024-02-23 at 2 09 44 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/ec3f23ef-0b39-4d34-8bf5-24c5857ac622)
+![WhatsApp Image 2024-02-23 at 2 09 47 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/fc2974bd-7a56-4842-bca7-86fc5cb5fcbd)
 
 
 ## Create a opt dir

@@ -63,9 +63,9 @@ In my case I created a driectory ```mkdir riscv``` and ``` chmod 777 home/nawras
 
 ```./configure --prefix=/opt/riscv```  
 
-In my case ```./configure --prefix=/home/nawras/riscv```
-![WhatsApp Image 2024-02-23 at 2 09 44 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/243d0d66-a450-4a78-bb56-87e80c13990a)
+![WhatsApp Image 2024-02-23 at 2 09 44 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/80571393-e7d7-4a96-b46f-710f99b7bb74)
 
+In my case ```./configure --prefix=/home/nawras/riscv```
 
 Then
 ```make``` **(Have patience)**

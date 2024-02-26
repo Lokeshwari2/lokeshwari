@@ -51,8 +51,8 @@ This repo is intended to document the weekly progress.
 
 ```git clone https://github.com/riscv/riscv-gnu-toolchain```
 
-![WhatsApp Image 2024-02-23 at 2 09 47 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/fc2974bd-7a56-4842-bca7-86fc5cb5fcbd)
 
+![WhatsApp Image 2024-02-23 at 2 09 41 AM (1)](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/eacaa0e4-2b79-4215-be88-3ad9cbea1bf6)
 
 ## Create a opt dir
 ```mkdir /opt/riscv```  *try sudo incase of permission denial*
@@ -63,7 +63,8 @@ In my case I created a driectory ```mkdir riscv``` and ``` chmod 777 home/nawras
 
 ```./configure --prefix=/opt/riscv```  
 
-In my case ```./configure --prefix=/home/nawras/riscv```  
+In my case ```./configure --prefix=/home/nawras/riscv```
+
 
 Then
 ```make``` **(Have patience)**

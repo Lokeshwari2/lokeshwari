@@ -1,21 +1,63 @@
-**Meeting Held on: 27/02/2024**
+**Execution of the Task 4**
 
-**The C code should undergo the simulation of normal GCC X86 Compiler and riscv compiler** (**SPIKE Simulation**) 
 
-**AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)**
+**Use the following instructions to get the gtkwave window**
 
-![WhatsApp Image 2024-02-29 at 5 33 17 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/67954f6c-55b9-4a29-be80-598d4a57fc87)
 
-**Step - 1: To Run the code in the normal GCC Compiler**
-            **To compile the code: gcc sum1ton.c -o sum1ton**
-            **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
-            
-**Step - 2: To Run the code in the RISC-V GCC Compiler**
+ls - to check the contents of the folder
 
- **To compile the code: riscv64-unknown-elf-gcc -o sum1ton sum1ton.c**
-  **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
-![WhatsApp Image 2024-02-29 at 5 35 27 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/e9d6b5a4-0dfe-4410-bc3b-a7579dc3a1a8)
 
-![WhatsApp Image 2024-02-29 at 5 35 44 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/d1f145b7-176a-4fa9-9955-8a658e995758)
+iverilog abdul.v abdul_tb.v - to simulate the verilog code and to check the errors
 
-![WhatsApp Image 2024-02-29 at 5 35 48 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/3c9f4575-3f1e-4429-8a9f-f4cab3472579)
+
+./a.out - to get the output and make vcd file to be ready open
+
+![WhatsApp Image 2024-03-27 at 9 33 19 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/10c70e8a-3d4f-4c90-b6af-4a9fbb5ba637)
+
+**after running the command
+gtkwave abdul.vcd**
+
+![WhatsApp Image 2024-03-27 at 10 18 19 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/17978377-c633-4106-a5b2-e734086f999d)
+
+
+
+**Lets move on to the execution Stage with Waveforms obtained for running the gtkwave abdul.vcd**
+
+
+1. When instantiated module is selected we get all the registers and wires as shown in the below figure
+
+
+![WhatsApp Image 2024-03-27 at 9 34 07 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/a915423c-9a9a-41e5-bf72-f2cfac74395c)
+
+
+2. Upon adding few signals the waves can be see as shown in the below figure
+
+   ![WhatsApp Image 2024-03-27 at 9 35 16 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/10ca393b-a77f-4b71-9d88-29cedd6652ad)
+
+
+
+**Output showing the ADD Operation**
+
+
+![WhatsApp Image 2024-03-27 at 9 37 46 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/9445c8e7-293e-44cd-a13d-7d46be15edc7)
+
+
+**Output showing the SUB Operation**
+
+![WhatsApp Image 2024-03-27 at 9 40 15 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/64f1469d-815e-429a-8daa-d6547603c529)
+
+showing the AND Operation**
+
+
+![WhatsApp Image 2024-03-27 at 9 44 28 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/effac1e3-44ec-489c-9675-7a25c58cf42c)
+
+
+**Output showing the OR Operation**
+
+![WhatsApp Image 2024-03-27 at 10 02 12 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/22844ff3-aeda-498c-9be4-f7ef801f87c0)
+
+![WhatsApp Image 2024-03-27 at 10 00 21 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/1bd19aea-7305-4f23-a240-1f99fc87f3eb)
+
+**Output showing the XOR Operation**
+
+![WhatsApp Image 2024-03-27 at 10 03 32 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/e6d754fe-6f49-45ed-803d-4139ddd529f0)

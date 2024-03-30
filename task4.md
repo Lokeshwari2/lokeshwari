@@ -12,7 +12,7 @@ iverilog lokeshwari.v lokeshwari_tb.v - to simulate the verilog code and to chec
 
 ./a.out - to get the output and make vcd file to be ready open
 
-![WhatsApp Image 2024-03-27 at 9 33 19 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/10c70e8a-3d4f-4c90-b6af-4a9fbb5ba637)
+![WhatsApp Image 2024-03-30 at 7 16 17 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/193ceb34-b907-4f17-a181-f813c3eea96c)
 
 **after running the command
 gtkwave lokeshwari.vcd**

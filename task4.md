@@ -7,7 +7,7 @@
 ls - to check the contents of the folder
 
 
-iverilog abdul.v abdul_tb.v - to simulate the verilog code and to check the errors
+iverilog lokeshwari.v lokeshwari_tb.v - to simulate the verilog code and to check the errors
 
 
 ./a.out - to get the output and make vcd file to be ready open
@@ -21,7 +21,7 @@ gtkwave abdul.vcd**
 
 
 
-**Lets move on to the execution Stage with Waveforms obtained for running the gtkwave abdul.vcd**
+**Lets move on to the execution Stage with Waveforms obtained for running the gtkwave lokeshwari.vcd**
 
 
 1. When instantiated module is selected we get all the registers and wires as shown in the below figure

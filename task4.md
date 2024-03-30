@@ -15,7 +15,7 @@ iverilog lokeshwari.v lokeshwari_tb.v - to simulate the verilog code and to chec
 ![WhatsApp Image 2024-03-27 at 9 33 19 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/10c70e8a-3d4f-4c90-b6af-4a9fbb5ba637)
 
 **after running the command
-gtkwave abdul.vcd**
+gtkwave lokeshwari.vcd**
 
 ![WhatsApp Image 2024-03-27 at 10 18 19 AM](https://github.com/Lokeshwari2/lokeshwari/assets/161022299/17978377-c633-4106-a5b2-e734086f999d)
 
